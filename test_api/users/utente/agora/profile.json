@@ -1,5 +1,6 @@
 {
-  "origin": "https:// ...",
   "aka": "utente",
-  "links": ["Gavagai", "Luca"]
+  "bio": "essere un test o essere un utente? forse sono un utente test."
+  "links": ["https://lucapanofsky.github.io/agora_standard_poc/test_api/users/Gavagai",
+            "https://lucapanofsky.github.io/agora_standard_poc/test_api/users/Luca"]
 }
