@@ -1,1 +1,0 @@
-https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json
