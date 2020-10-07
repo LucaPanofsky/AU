@@ -1,6 +1,6 @@
 # AGORA.HUB  
 
-`agora.hub`  è uno standard per la condivisione di contenuti **pubblici**. `agora.hub` getta le fondamenta per lo sviluppo di un ecosistema cui tutti possono contribuire, come semplice utente o sviluppatore. 
+`agora.hub` è uno standard per la condivisione di contenuti **pubblici**. `agora.hub` getta le fondamenta per lo sviluppo di un ecosistema cui tutti possono contribuire, come semplice utente o sviluppatore. 
 
 Grazie a uno standard pubblico e a licenza aperta, tutti possono partecipare al network e nessuno può esserne escluso. Per partecipare, è necessario: 
 
@@ -9,7 +9,7 @@ Grazie a uno standard pubblico e a licenza aperta, tutti possono partecipare al 
 
 ...
 
-> "`agora.hub `  è così *decentralizzato* che per partecipare non devi nemmeno iscriverti!" 
+> "`agora.hub` è così *decentralizzato* che per partecipare non devi nemmeno iscriverti!" 
 
 ## Ochei, concretamente, di cosa si tratta?
 
@@ -37,7 +37,7 @@ Ovviamente tutti i tweet condividono la stessa struttura, possiamo chiamarla uno
 
 `agora.hub` fornisce uno schema simile per salvare i contenuti nel proprio spazio. Non è più necessario un server centralizzato ("`agora.hub` è un ecosistema decentralizzato ...") *se* i partecipanti del network aderiscono a uno standard comune. Siccome è molto semplice basterà fare un esempio. Provate a visitare questo link:
 
-https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json
+[https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json](https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json)
 
 la pagina di destinazione è una mappa `agora.hub` 
 
