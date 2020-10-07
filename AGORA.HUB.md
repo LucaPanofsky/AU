@@ -37,7 +37,7 @@ Ovviamente tutti i tweet condividono la stessa struttura, possiamo chiamarla uno
 
 `agora.hub` fornisce uno schema simile per salvare i contenuti nel proprio spazio. Non è più necessario un server centralizzato ("`agora.hub` è un ecosistema decentralizzato ...") *se* i partecipanti del network aderiscono a uno standard comune. Siccome è molto semplice basterà fare un esempio. Provate a visitare questo link:
 
-[https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json][https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json]
+https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json
 
 la pagina di destinazione è una mappa `agora.hub` 
 
@@ -52,9 +52,9 @@ la pagina di destinazione è una mappa `agora.hub`
 
 ma, ancora più importante è il percorso: 
 
-`https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json`
+[https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json](https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente/agora/2020/09/26/17.10.00.json)
 
-che ora spezziamo in due parti: 
+che ora spezziamo in due parti
 
 1. **origine** `https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente` 
 2. **query** `/agora/2020/09/26/17.10.00.json`
@@ -65,7 +65,7 @@ che ora spezziamo in due parti:
 
 Molto semplice! A breve (...) pubblicherò la documentazione dello schema. Ovviamente prevede dei percorsi prestabiliti dove salvare gli indici/storia dei contenuti. 
 
-L'ecosistema `agora.hub` prevede applicazioni per visualizzare i contenuti. Un'applicazione per visualizzare i contenuti `agora.hub` è un semplice sito web in grado recuperare il contenuto di queste query al momento necessario e di mostrarlo all'utente. L'applicazione deve essere inizializzata attraverso un link `agora.hub`, perché no il proprio link personale, a partire dal quale vengono scoperti e aggiunti altri utenti attraverso un meccanismo di discovery. In parole povere, si tratta di un passa parola automatizzato : ) 
+L'ecosistema `agora.hub` prevede applicazioni per visualizzare i contenuti. Un'applicazione per visualizzare i contenuti `agora.hub` è un semplice sito web in grado recuperare il contenuto di queste query al momento necessario e di mostrarlo all'utente. L'applicazione deve essere inizializzata attraverso un link `agora.hub` (perché no il proprio link personale) a partire dal quale vengono scoperti e aggiunti altri utenti attraverso un meccanismo di discovery. In parole povere, si tratta di un passa parola automatizzato : ) 
 
 Allo stesso modo però, sarà possibile caricare liste prestabilite di link, che possono essere vere e proprie redazioni o organizzazioni decentralizzate. Questo è un tema molto importante che tratterò in futuro.
 
@@ -79,6 +79,6 @@ Nel prossimo post mi occuperò del punto 1:
 
 > "poter pubblicare contenuti online raggiungibili attraverso un indirizzo URL". 
 
-Ho individuato due strade per risolvere questo problema (*come faccio a caricare i contenuti ???*) una è preferibile ma è meno amichevole per un utente poco digitalizzato. La seconda invece, è più complicata ma ha il vantaggio di offrire all'utente una esperienza del tutto analoga a quella tradizionale attraverso `GitHub`. Si perde un po' in decentralizzazione, ma su aspetti poco rilevanti e si guadagna in sicurezza ... 
+Ho individuato due strade per risolvere questo problema (*come faccio a caricare i contenuti ???*) una è preferibile ma è meno amichevole per un utente meno digitalizzato. La seconda invece, è più complicata ma ha il vantaggio di offrire all'utente una esperienza del tutto analoga a quella tradizionale attraverso `GitHub`. Si perde un po' in decentralizzazione, ma su aspetti poco rilevanti e si guadagna in sicurezza ... 
 
 *continua*
