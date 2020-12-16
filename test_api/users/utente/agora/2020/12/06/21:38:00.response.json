@@ -2,5 +2,5 @@
   "body": "Una risposta ...",
   "responses": [],
   "others": false,
-  "response_to": "https://agora-node.netlify.app/agora/2020/12/05/00:26:50.post.json"
+  "response_to": ["https://agora-node.netlify.app/agora/2020/12/05/00:26:50.post.json"]
 }
