@@ -1,6 +1,6 @@
 {
-  "type": "post",
   "body": "Ciao Agora! Questo è il mio primo post. Siamo ancora in fase di test.",
-  "response_to": false,
-  "crowd": "common"
+  "responses": [],
+  "pictures": [],
+  "mentions": []
 }
