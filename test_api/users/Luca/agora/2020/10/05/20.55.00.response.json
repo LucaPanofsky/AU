@@ -1,6 +1,7 @@
 {
-  "type": "post",
   "body": "Ma tana delle tigri, tana delle tigri ???",
   "response_to": "https://lucapanofsky.github.io/agora_standard_poc/test_api/users/mrX/agora/2020/10/05/20.20.00.json",
-  "crowd": "common"
+  "responses": [],
+  "pictures": [],
+  "mentions": []
 }
