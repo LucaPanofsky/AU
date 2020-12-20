@@ -1,5 +1,6 @@
 {
   "aka": "mrX",
   "bio": "Sono mrX",
-  "links": ["https://lucapanofsky.github.io/agora_standard_poc/test_api/users/utente"]
+  "avatar": false,
+  "origin":"https://lucapanofsky.github.io/agora_standard_poc/test_api/users/mrX"
 }
