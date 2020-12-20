@@ -1,6 +1,7 @@
 {
-  "type": "post",
   "body": "Mi sembra che la gestione dello stato sia abbastanza solida. È solo una mia impressione?",
-  "response_to": false,
-  "crowd": "common"
+  "responses": [],
+  "pictures": [],
+  "mentions": [],
+  "response_to": false
 }
