@@ -16,3 +16,4 @@
   Content-type,
   Etag
   '''
+  Access-Control-Expose-Headers = "*"
