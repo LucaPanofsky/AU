@@ -15,5 +15,4 @@
   Origin,
   Content-type
   '''
-  X-Custom-Header = "foo"
-  Cache-Control = "no-store"
+  Access-Control-Request-Headers ="ETag"
