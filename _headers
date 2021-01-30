@@ -3,4 +3,4 @@
   Access-Control-Allow-Headers: *
   Access-Control-Allow-Methods: *
   Cache-control: public, max-age=5000
-  etag: "abcde"
+  Etag: W/"<etag_value>"
