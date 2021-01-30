@@ -5,13 +5,18 @@
   Access-Control-Allow-Headers = '''
   Origin,
   Content-type'''
-  for = "/marx/agora/history.json"
+
+
+[[headers]]
+  for = "/*/history.json"
   [headers.values]
   Access-Control-Allow-Origin = "*"
   Access-Control-Allow-Headers = '''
   Origin,
   Content-type'''
-  Cache-control = '''
-   public,
-   max-age=5000   
-   '''
+  cache-control = '''
+  max-age=0,
+  no-cache,
+  no-store,
+  must-revalidate'''
+  X-Custom-Header = "foo"
