@@ -15,8 +15,6 @@
   Origin,
   Content-type'''
   cache-control = '''
-  max-age=0,
-  no-cache,
-  no-store
+  max-age=5000
   '''
   X-Custom-Header = "foo"
