@@ -5,15 +5,4 @@
   Access-Control-Allow-Headers = '''
   Origin,
   Content-type'''
-
-
-[[headers]]
-  for = "/*/history.json"
-  [headers.values]
-  Access-Control-Allow-Origin = "*"
-  Access-Control-Allow-Headers = '''
-  Origin,
-  Content-type,
-  Etag
-  '''
   Access-Control-Expose-Headers = "*"
