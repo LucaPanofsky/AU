@@ -14,7 +14,7 @@
   Access-Control-Allow-Headers = '''
   Origin,
   Content-type'''
-  cache-control = '''
+  Cache-control = '''
   max-age = "5000"
   '''
   X-Custom-Header = "foo"
