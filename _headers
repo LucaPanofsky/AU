@@ -1,0 +1,6 @@
+/templates/marx/agora/history.json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Headers: *
+  Access-Control-Allow-Methods: *
+  Cache-control: public, max-age=5000
+  etag: "abcde"
