@@ -15,4 +15,5 @@
   Origin,
   Content-type
   '''
-  Access-Control-Request-Headers ="ETag"
+  Access-Control-Request-Headers ="Etag"
+  Cache-Control = "public"
