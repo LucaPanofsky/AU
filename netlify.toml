@@ -15,5 +15,5 @@
   Origin,
   Content-type
   '''
-  Cache-control = "etag; max-age=5000"
   X-Custom-Header = "foo"
+  ETag = W/"<etag_value>"
