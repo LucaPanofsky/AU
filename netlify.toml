@@ -13,7 +13,6 @@
   Access-Control-Allow-Origin = "*"
   Access-Control-Allow-Headers = '''
   Origin,
-  Content-type
+  Content-type,
+  Etag
   '''
-  Access-Control-Request-Headers ="Etag"
-  Cache-Control = "public"
