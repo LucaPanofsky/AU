@@ -16,4 +16,4 @@
   Content-type
   '''
   X-Custom-Header = "foo"
-  ETag = "<etag_value>"
+  Cache-Control = "no-store"
