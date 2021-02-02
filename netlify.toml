@@ -7,3 +7,4 @@
   Content-type'''
   Access-Control-Expose-Headers = "*"
   Access-Control-Request-Headers = "*"
+  Access-Control-Request-Method = "*"
