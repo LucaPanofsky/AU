@@ -8,3 +8,6 @@
   Access-Control-Expose-Headers = "*"
   Access-Control-Request-Headers = "*"
   Access-Control-Request-Method = "*"
+ Cache-Control = '''
+ must-revalidate,
+ no-cache'''
