@@ -4,5 +4,5 @@
   Access-Control-Allow-Origin = "*"
   Access-Control-Allow-Headers = "*"
   Access-Control-Expose-Headers = "*"
-  Access-Control-Request-Headers = "*"
+  Access-Control-Request-Headers = "If-None-Match"
   Allow = "*"
