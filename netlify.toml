@@ -5,3 +5,4 @@
   Access-Control-Allow-Headers = "*"
   Access-Control-Expose-Headers = "*"
   Access-Control-Request-Headers = "*"
+  Cache-Control = "max-age = 1000"
