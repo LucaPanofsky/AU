@@ -4,6 +4,6 @@
   Access-Control-Allow-Origin = "*"
   Access-Control-Allow-Headers = "*"
   Access-Control-Expose-Headers = "*"
-  Access-Control-Request-Headers = "*"
-  Access-Control-Request-Method = "*"
+  Access-Control-Request-Headers = "ETag, If-Match, If-None-Match"
+  Access-Control-Request-Method = "GET"
   Cache-control = "public, max-age=0, must-revalidate"
