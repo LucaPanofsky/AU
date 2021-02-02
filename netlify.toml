@@ -4,7 +4,10 @@
   Access-Control-Allow-Origin = "*"
   Access-Control-Allow-Headers = '''
   Origin,
-  Content-type'''
+  X-Requested-With,
+  Content-Type,
+  Accept
+  '''
   Access-Control-Expose-Headers = "*"
   Access-Control-Request-Headers = "*"
   Access-Control-Request-Method = "*"
