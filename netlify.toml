@@ -6,4 +6,4 @@
   Origin,
   Content-type'''
   Access-Control-Expose-Headers = "*"
-  Access-Control-Request-Headers = "If-Match"
+  Access-Control-Request-Headers = "*"
