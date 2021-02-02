@@ -2,15 +2,8 @@
   for = "/*"
   [headers.values]
   Access-Control-Allow-Origin = "*"
-  Access-Control-Allow-Headers = '''
-  Origin,
-  X-Requested-With,
-  Content-Type,
-  Accept
-  '''
+  Access-Control-Allow-Headers = "*"
   Access-Control-Expose-Headers = "*"
   Access-Control-Request-Headers = "*"
   Access-Control-Request-Method = "*"
- Cache-Control = '''
- must-revalidate,
- no-cache'''
+  Cache-control = "public, max-age=0, must-revalidate"
